@@ -1,0 +1,4 @@
+console.log(numeroQueNaoExiste);
+
+// Erro gerado:
+// ReferenceError: numeroQueNaoExiste is not defined
